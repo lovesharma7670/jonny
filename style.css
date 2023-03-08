@@ -1,0 +1,43 @@
+body {
+    background-color: #EAF6F6;
+    margin: 8px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: rgb(144, 210, 210);
+}
+
+h3 {
+    color: rgb(134, 204, 204);
+}
+
+.social-media {
+    text-align: center;
+    background-color: #66BFBF;
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 0px;
+
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.a {
+    text-decoration: none;
+    color: #11999E;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.a:hover {
+    color: #EAF6F6;
+}
